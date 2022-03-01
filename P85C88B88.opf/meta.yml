@@ -1,0 +1,300 @@
+id: P85C88B88
+initial_creation_type: input
+source_metadata:
+  title: Vajracchedikā Prajñāpāramitā
+  language: sa
+  volumes:
+    a90d5b8c03d74ff9be8866102fe774ba:
+      title: CIII_a
+      base_file: CIII_a.txt
+      work_id: WCBE3EC67
+    2b6591b91352433ca75129fd1f19c3de:
+      title: CIII_b
+      base_file: CIII_b.txt
+      work_id: W63446664
+    9e18698f2caf4056b017765663ea3f2b:
+      title: CIII_c
+      base_file: CIII_c.txt
+      work_id: WBE37C3D8
+    76dae8c4274a4c7b80f1bcc59d644621:
+      title: CIII_d
+      base_file: CIII_d.txt
+      work_id: W4E693D04
+    f321c8e5031d45e6a449c4e4572312a8:
+      title: CIII_e
+      base_file: CIII_e.txt
+      work_id: W56F71BF6
+    e3618f613bb34b86a9a09deb65c5e2a4:
+      title: CII_a
+      base_file: CII_a.txt
+      work_id: WBC79AD73
+    7ed3517b15f84337be5f85d84c6a41fd:
+      title: CII_b
+      base_file: CII_b.txt
+      work_id: WB1B28C43
+    2daaa1d4463e43f9964d13b3997a15b8:
+      title: CII_c
+      base_file: CII_c.txt
+      work_id: W8492C46B
+    24635c6b715444db9eedcf3bee5db10a:
+      title: CIV_a
+      base_file: CIV_a.txt
+      work_id: W84EF222E
+    127e4adb9d104c9aa2426aab1bf1629f:
+      title: CIV_b
+      base_file: CIV_b.txt
+      work_id: WB125BCFA
+    bb1f94dcac4a4674aeb961bb031668f6:
+      title: CIV_c
+      base_file: CIV_c.txt
+      work_id: W4AB7729A
+    5c24ca910fde40cd806c50bd178d6cb6:
+      title: CIV_d
+      base_file: CIV_d.txt
+      work_id: W289A28DC
+    2ccb57dcd5ff40b9a1e5ddec71cf5578:
+      title: CIV_e
+      base_file: CIV_e.txt
+      work_id: WD55554FF
+    fe04c9d7db5c42aeb184a13554b1f1e9:
+      title: CIV_f
+      base_file: CIV_f.txt
+      work_id: W7B18BA7E
+    cb008c8edec64438ae373a71c7c615bc:
+      title: CIV_g
+      base_file: CIV_g.txt
+      work_id: W1E9B027B
+    c7c775d9dda743f093537bb322903405:
+      title: CIV_h
+      base_file: CIV_h.txt
+      work_id: WF99591F7
+    ae9daab693a441ea95082c96731ba990:
+      title: CIX_a
+      base_file: CIX_a.txt
+      work_id: W904E2623
+    30e5f6ebd9e74893b4af072a22755cf2:
+      title: CIX_b
+      base_file: CIX_b.txt
+      work_id: WAE9FF199
+    817ad70ad3e149be8f4712fbdf92e44c:
+      title: CI_a
+      base_file: CI_a.txt
+      work_id: W5E01A619
+    4777c7ec632842518a739cdd86468092:
+      title: CI_b
+      base_file: CI_b.txt
+      work_id: W350C81A3
+    f3bdd19620f1494eaa6f256ad1b4e316:
+      title: CI_c
+      base_file: CI_c.txt
+      work_id: WACA051A9
+    82b9a8201aae4aa785c962cea92f3905:
+      title: CI_d
+      base_file: CI_d.txt
+      work_id: W78A57DE4
+    07f7c9f931ef47bb90df8134fa312536:
+      title: CI_e
+      base_file: CI_e.txt
+      work_id: WED78C2C6
+    73df39df449841b4bbabcac874417e6e:
+      title: CVIII_a
+      base_file: CVIII_a.txt
+      work_id: W8F12514F
+    7fd3e72dbb4441999ce0eec4e0d83f46:
+      title: CVIII_b
+      base_file: CVIII_b.txt
+      work_id: WDD203C44
+    da2ba656411743d29cebd813523cb7cb:
+      title: CVII_a
+      base_file: CVII_a.txt
+      work_id: W2347AFCC
+    7bfd3af2d7d242debaeeb60fb573142e:
+      title: CVII_b
+      base_file: CVII_b.txt
+      work_id: WFF21FFC0
+    856b222cda68494e9f152cf49508bcfa:
+      title: CVII_c
+      base_file: CVII_c.txt
+      work_id: W5FFE4D11
+    30d7a22ac63a43acbeee510ead1dca65:
+      title: CVII_d
+      base_file: CVII_d.txt
+      work_id: WE1AFA4D3
+    6e515991721c44b5bd9552fc44e2b8b5:
+      title: CVII_e
+      base_file: CVII_e.txt
+      work_id: W1B506005
+    443b2539fe784e2aafaab3aaf46f408a:
+      title: CVII_f
+      base_file: CVII_f.txt
+      work_id: W6E4C6C4C
+    94abcefcf2e4460ca2b5c7ee52ab89d7:
+      title: CVII_g
+      base_file: CVII_g.txt
+      work_id: W9619F631
+    aafd8f01cdba4786a89b4e89839c1717:
+      title: CVII_h
+      base_file: CVII_h.txt
+      work_id: W299C810C
+    a7ea359e828f45eeba1c790c610ce248:
+      title: CVI_a
+      base_file: CVI_a.txt
+      work_id: WCCC509CA
+    cd8ff1b90eae46e598effb1b3f31521f:
+      title: CVI_b
+      base_file: CVI_b.txt
+      work_id: WEDA93535
+    c3cf328870f049c29d417e0f6e85e5ef:
+      title: CVI_c
+      base_file: CVI_c.txt
+      work_id: WC22BB693
+    28e956b93a084b67aa1040b1be3854b5:
+      title: CV_a
+      base_file: CV_a.txt
+      work_id: W32283288
+    caaf09fb8e61457fb889ddb6efdfc28c:
+      title: CV_b
+      base_file: CV_b.txt
+      work_id: WAD0153CC
+    5cb01d73c7eb45198e3fc7a989ce95b0:
+      title: CV_c
+      base_file: CV_c.txt
+      work_id: W9020EA4A
+    b8c7981a8a0f45a197bbdd5782fe04d4:
+      title: CXIII_a
+      base_file: CXIII_a.txt
+      work_id: W3791E327
+    c9e3553069df444dab1d3758183a1ba7:
+      title: CXIII_b
+      base_file: CXIII_b.txt
+      work_id: W219DCEC2
+    afccfd8b4e7d4935a0941033ce35e250:
+      title: CXII_a
+      base_file: CXII_a.txt
+      work_id: W0EE35729
+    3ec83785e1c74e02bf2d4b5c37d486cc:
+      title: CXII_b
+      base_file: CXII_b.txt
+      work_id: WDAEA360E
+    62ef2ece0a534b7ab30127c92de65e7c:
+      title: CXIV_a
+      base_file: CXIV_a.txt
+      work_id: W47641210
+    825a01c9caf441c7b4b037dd00edf130:
+      title: CXIV_b
+      base_file: CXIV_b.txt
+      work_id: WFD9C45B4
+    9dd10fc88abb487a95ee666338d40714:
+      title: CXI_a
+      base_file: CXI_a.txt
+      work_id: W2CAC67D9
+    84550177660140b4bc476202c71fab9c:
+      title: CXV_a
+      base_file: CXV_a.txt
+      work_id: W2F8191D1
+    f5b6cb932af142da80426bf9f16ef3c6:
+      title: CXV_b
+      base_file: CXV_b.txt
+      work_id: W9B74C492
+    c99efe63541c4b3fa7ae720e5f93d11c:
+      title: CX_a
+      base_file: CX_a.txt
+      work_id: W8D48BE8E
+    bc9f32fd3b7d40198a53b0381c389f0b:
+      title: CX_b
+      base_file: CX_b.txt
+      work_id: WEB005BB4
+    30b41868433247f2936999bd5aecb2cc:
+      title: Colophon
+      base_file: Colophon.txt
+      work_id: W2B1335D1
+    b2feac7e026f4b3dbf2c4a60e5704e3f:
+      title: Preface
+      base_file: Preface.txt
+      work_id: WC313B47A
+    7fa98c3e4027425dac16701784893dcc:
+      title: Title
+      base_file: Title.txt
+      work_id: W88486BE9
+    16556e69913c4db7995089a18e1a6726:
+      title: §1
+      base_file: §1.txt
+      work_id: W689E74AA
+    072278bd877640859547d0106446d4b5:
+      title: §11
+      base_file: §11.txt
+      work_id: W1964F70C
+    93cd89cef31b406e9bcbeee83e639558:
+      title: §12
+      base_file: §12.txt
+      work_id: W845B3408
+    adf7c8be0aa646ccae938f2631bda18a:
+      title: §2
+      base_file: §2.txt
+      work_id: W69C653B5
+    7bb8856bc4f44785b6a1302c2023ea05:
+      title: §23
+      base_file: §23.txt
+      work_id: W1444861A
+    77e13d3269ce47bd87a2b1b7d5af2c5d:
+      title: §24
+      base_file: §24.txt
+      work_id: W6F2C123E
+    3c212963256d43ed8550cb6c52a7ff44:
+      title: §25
+      base_file: §25.txt
+      work_id: WC567DC76
+    d41dda82c7c942e0996c86e7a9e44b5f:
+      title: §27
+      base_file: §27.txt
+      work_id: WF83FD379
+    60da0f02695f487fa5213b2e37ca8560:
+      title: §28
+      base_file: §28.txt
+      work_id: W40A5E931
+    926bccc6cca74478baf2d698b1a9d4fc:
+      title: §29
+      base_file: §29.txt
+      work_id: W89866B92
+    60c5c885c9ed41c2900a66343cc68416:
+      title: §3
+      base_file: §3.txt
+      work_id: W321AD281
+    b8711c02f45941098ae0d3c94ad038c6:
+      title: §4
+      base_file: §4.txt
+      work_id: W1C521111
+    31b912995b9440898b6a0c00b4877a32:
+      title: §5
+      base_file: §5.txt
+      work_id: WA0943A01
+    f51d800b9d734a17adb538eab72b73e3:
+      title: §6
+      base_file: §6.txt
+      work_id: WA88AAA8F
+    862b50edd80848738980bdd4b0ba3b1d:
+      title: §7
+      base_file: §7.txt
+      work_id: W599CCA1C
+    52496ab5c1b2447abf38a1a7477558c2:
+      title: §8
+      base_file: §8.txt
+      work_id: WB6748D9D
+  chapter_to_tile:
+    CI: §9
+    CII: §10
+    CIII: §13
+    CIV: §14
+    CV: §15
+    CVI: §16
+    CVII: §17
+    CVIII: §18
+    CIX: §19
+    CX: §21
+    CXI: §22
+    CXII: §26
+    CXIII: §30
+    CXIV: §31
+    CXV: §32
+created_at: '2022-03-01T21:54:21.436822'
+last_modified_at: '2022-03-01T21:54:21.436849'
